@@ -1,5 +1,7 @@
 # Credit-Risk-Analysis-with-Machine-Learning
 
+Date: April 2023
+
 This project reviews the process of performing credit risk analysis using machine learning, delving into various methods, their mathematical foundations, and practical applications for predicting loan default risk.
 
 This project provides an in-depth analysis of credit risk, focusing on predicting the likelihood of loan default using machine learning models. It explores key financial concepts like creditors, borrowers, and types of loans, to Mathematical concepts to the implements various models including Logistic Regression, Random Forest, and Decision Trees to assess and mitigate credit risk. The notebook also features data visualizations to enhance understanding of the model performance and insights from the data.
