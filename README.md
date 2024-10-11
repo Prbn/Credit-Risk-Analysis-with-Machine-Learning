@@ -6,9 +6,6 @@ This project reviews the process of performing credit risk analysis using machin
 
 This project provides an in-depth analysis of credit risk, focusing on predicting the likelihood of loan default using machine learning models. It explores key financial concepts like creditors, borrowers, and types of loans, to Mathematical concepts to the implements various models including Logistic Regression, Random Forest, and Decision Trees to assess and mitigate credit risk. The notebook also features data visualizations to enhance understanding of the model performance and insights from the data.
 
-# Credit Risk Analysis
-
-This project explores credit risk, a critical concept in the financial industry, and provides an analysis to understand the likelihood of a borrower defaulting on a loan. The Jupyter Notebook uses Python to perform credit risk analysis and includes several key concepts and techniques to assess risk.
 
 ## Project Overview
 
@@ -26,7 +23,7 @@ Credit risk is a critical concept in the financial industry, representing the li
     *   **Borrower (Debtor)**: Receives goods, services, or money and is obligated to repay the lender.
 
 
-2.  **Types of Loans**:
+3.  **Types of Loans**:
 
     *   **Credit Cards**: Allow borrowers to spend up to a certain limit, which must be repaid with interest.
 
@@ -35,14 +32,13 @@ Credit risk is a critical concept in the financial industry, representing the li
     *   **Asset Financing**: Companies obtain equipment and pay for its use over time rather than upfront.
 
 
-3.  **Credit Risk**:
+4.  **Credit Risk**:
 
     *   **Definition**: The probability that a borrower will not repay their loan.
 
     *   **Consequences for Lenders**: Loss of principal and interest, and incurring collection costs.
 
     *   **Default**: The event of a borrower failing to make required payments.
-
 
 
 ### Mitigating Credit Risk
@@ -156,8 +152,11 @@ The Expected Loss of \$4,500 indicates the anticipated loss the lender might fac
 
 ## Key Sections
 1. **Creditors and Borrowers**: Explanation of the roles of creditors (lenders) and borrowers (debtors).
+
 2. **Types of Loans**: Covers different loan types, including credit cards.
+
 3. **Risk Assessment**: Practical examples of how to assess credit risk based on borrower data.
+
 4. **Modeling**: Application of machine learning models to predict loan defaults.
 
 ## Requirements
@@ -176,7 +175,9 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## Running the Analysis
 1. Clone this repository.
+
 2. Open the notebook using Jupyter or any compatible IDE.
+
 3. Run each cell to see the results of the credit risk analysis.
 
 ## Models Used
